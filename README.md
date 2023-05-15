@@ -9,7 +9,7 @@ I major in Business Analytics with a minor in UI/UX Design at National Universit
 <b>Present: </b>
 * 🔗 Visit [my portfolio website](https://www.lihuicham.com/) to see the projects. 
 * ✍🏼 I [write on Medium](https://medium.com/@lihuicham) on tech and my experience. 
-* 💼 I am currently a software engineering intern at [Switcheo Labs](https://www.switcheo.com/), learning about blockchain technologies. 
+* 💼 I am working as a [software engineering intern](https://www.linkedin.com/in/lihuicham) at [Switcheo Labs](https://www.switcheo.com/), learning about blockchain technologies. 
 
 <h3>Technologies I work with</h3>
 <table>

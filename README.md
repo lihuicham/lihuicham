@@ -1,6 +1,8 @@
 <h3>Hey, I am Li Hui 👋</h3>
 Welcome to my GitHub !
-I major in Business Analytics with a minor in UI/UX Design at National University of Singapore (NUS) School of Computing. I work on software engineering, design and machine learning projects in school, work and during my free time. [Ping me](https://t.me/lihuicham) if you wish to collaborate on projects !
+I major in Business Analytics with a minor in UI/UX Design at National University of Singapore (NUS) School of Computing. I work on software engineering, design and machine learning projects in school, work and during my free time.  
+
+[Ping me](https://t.me/lihuicham) if you wish to collaborate on projects !
 
 <h3>Technologies I work with</h3>
 

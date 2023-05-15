@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d2e8fb,100:fee2d6&height=300&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d2e8fb,100:fee2d6&height=100&section=header" />
 
 <h3 align="center">Hey, I am Li Hui 👋</h3>
 Welcome to my GitHub !

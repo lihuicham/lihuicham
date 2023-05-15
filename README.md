@@ -2,7 +2,12 @@
 Welcome to my GitHub !
 I major in Business Analytics with a minor in UI/UX Design at National University of Singapore (NUS) School of Computing. I work on machine learning, design and software engineering projects in school, work and during my free time.  
 
-[Ping me](https://t.me/lihuicham) if you wish to collaborate on projects !
+[Ping me](https://t.me/lihuicham) if you wish to collaborate on projects !  
+
+<b>Present: </b>
+* 🔗 Visit [my portfolio website](https://www.lihuicham.com/) to see the projects. 
+* ✍🏼 I [write on Medium](https://medium.com/@lihuicham) on tech and my experience. 
+* 💼 I am currently a software engineering intern at [Switcheo Labs](https://www.switcheo.com/), learning about blockchain technologies. 
 
 <h3>Technologies I work with</h3>
 <table>
@@ -69,9 +74,9 @@ I major in Business Analytics with a minor in UI/UX Design at National Universit
 
 
 <h3>My GitHub Stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lihuicham&count_private=true&show_icons=true&theme=transparent&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuicham&size_weight=0.5&count_weight=0.5&layout=compact" />
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lihuicham&count_private=true&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuicham&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&bg_color=00000000&hide_border=true" />
 </p>
 
 <h3>Where to find me</h3>

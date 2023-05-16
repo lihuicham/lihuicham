@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:d2e8fb,100:fee2d6&height=100&section=header" />
 
 <h3 align="center">Hey, I am Li Hui 👋</h3>
-<img src="https://readme-typing-svg.demolab.com?font=source+code+pro&weight=500&duration=2500&pause=1000&color=F78415&width=435&lines=I+design+user-friendly+interfaces+%F0%9F%8E%A8;I+develop+reliable+apps+%F0%9F%92%BB;I+build+practical+ML+models+%F0%9F%A7%B1;I+write+about+tech+%E2%9A%A1%EF%B8%8F" alt="Typing SVG"/>
-
 Welcome to my GitHub !
 I major in Business Analytics with a minor in UI/UX Design at National University of Singapore (NUS) School of Computing. I work on design, software engineering and machine learning projects in school, work and during my free time.  
 
@@ -14,6 +12,8 @@ I major in Business Analytics with a minor in UI/UX Design at National Universit
 * 🔗 Visit [my portfolio website](https://www.lihuicham.com/) to see the projects. 
 * ✍🏼 I [write on Medium](https://medium.com/@lihuicham) on tech and my experience. 
 * 💼 I am working as a [software engineering intern](https://www.linkedin.com/in/lihuicham) at [Switcheo Labs](https://www.switcheo.com/), learning about blockchain technologies. 
+
+<img src="https://readme-typing-svg.demolab.com?font=source+code+pro&weight=500&duration=2500&pause=1000&color=F78415&width=435&lines=I+design+user-friendly+interfaces+%F0%9F%8E%A8;I+develop+reliable+apps+%F0%9F%92%BB;I+build+practical+ML+models+%F0%9F%A7%B1;I+write+about+tech+%E2%9A%A1%EF%B8%8F" alt="Typing SVG"/>
 
 <h3>Technologies I work with</h3>
 <table>

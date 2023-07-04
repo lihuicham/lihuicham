@@ -78,13 +78,6 @@ I major in Business Analytics with a minor in UI/UX Design at National Universit
     </tbody>
 </table>
 
-
-<h3>My GitHub Stats</h3>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=lihuicham&count_private=true&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuicham&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&bg_color=00000000&hide_border=true" />
-</p>
-
 <h3>Where to find me</h3>
 <p>
     <a href="https://www.linkedin.com/in/lihuicham" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
